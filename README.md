@@ -12,7 +12,7 @@ The dataset used in this project is available [here](https://github.com/YBIFound
 
 ## Project Structure
 
-- `Wine_Quality_Prediction.ipynb`: The Google Colab notebook containing the code for data preprocessing, visualization, model training, evaluation, and prediction.
+- `Wine_Quality_Prediction.ipynb`: The notebook containing the code for data preprocessing, visualization, model training, evaluation, and prediction.
 - `README.md`: This file, providing an overview of the project.
 
 ## Getting Started
