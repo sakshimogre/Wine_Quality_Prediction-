@@ -27,8 +27,7 @@ Make sure you have the following installed:
 - Required Python libraries (listed in `requirements.txt`)
 
 ### Installation
-
-1. **Clone the repository**
+**Clone the repository**
    ```bash
    git clone https://github.com/sakshimogre/Wine_Quality_Prediction.git
 
